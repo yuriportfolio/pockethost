@@ -1,7 +1,8 @@
 repo_name: yuriportfolio/pockethost
 report_id: 749679faa41ec4f53a52971c749fedd1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:05:36+00:00'
+timestamp: '2024-01-04T15:13:41+00:00'
 requested_by: benallfree
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/src/services/InstanceLoggerService/migrations/001_create.sql
   detection_source: packages/daemon/src/services/InstanceLoggerService/migrations/001_create.sql
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-03 22:09:03.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -68,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/package.json
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -81,6 +88,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/package.json
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-11-11 13:55:39.000000000 Z
@@ -93,7 +101,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: packages/proxy/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/cli/package.json
+  detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: Protobuf
@@ -104,7 +113,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
-  detection_source: attic/pockethost/go.mod
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/fly.io/pocketbase-custom/go.mod
+  detection_source: attic/fly.io/pocketbase-custom/go.mod
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 18:14:52.000000000 Z
 - name: Svelte
@@ -116,7 +126,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
-  detection_source: packages/pockethost.io/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/js-cloud-funcs/package.json
+  detection_source: attic/js-cloud-funcs/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: gRPC
@@ -128,7 +139,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Remote Procedure Call (RPC)
   image_url: https://img.stackshare.io/service/4670/default_d811b0ac72205af84aca21f967594338580be913.png
-  detection_source: attic/pockethost/go.mod
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/fly.io/pocketbase-custom/go.mod
+  detection_source: attic/fly.io/pocketbase-custom/go.mod
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 18:14:52.000000000 Z
 - name: SQLite
@@ -140,6 +152,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/package.json
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -152,6 +165,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -161,6 +175,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -170,6 +185,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/.github/workflows/pockethost.yaml
   detection_source: ".github/workflows/pockethost.yaml"
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-14 08:12:40.000000000 Z
@@ -182,6 +198,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/nginx/nginx.conf
   detection_source: attic/nginx/nginx.conf
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -193,6 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/package.json
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -205,7 +223,8 @@ tools:
   category: Monitoring
   sub_category: Performance Monitoring
   image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
-  detection_source: attic/pockethost/go.mod
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/fly.io/pocketbase-custom/go.mod
+  detection_source: attic/fly.io/pocketbase-custom/go.mod
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 18:14:52.000000000 Z
 - name: Parcel
@@ -218,8 +237,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/8054/fC6Wad-S_400x400.jpg
-  detection_source_url: yarn.lock
-  detection_source: packages/cli/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
+  detection_source: attic/js-cloud-funcs/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: Prettier
@@ -232,7 +251,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: packages/pockethost.io/yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
   detection_source: package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:18:18.000000000 Z
@@ -244,7 +263,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
-  detection_source: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/yarn.lock
+  detection_source: packages/daemon/yarn.lock
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
 - name: highlight.js
@@ -255,6 +275,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/package.json
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-06 10:49:40.000000000 Z
@@ -266,6 +287,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/package.json
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -278,6 +300,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/fly.io/Dockerfile
   detection_source: attic/fly.io/Dockerfile
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 18:14:52.000000000 Z
@@ -290,6 +313,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/yuriportfolio/pockethost
   detection_source: Repo Metadata
 - name: date-fns
   description: Modern JavaScript date utility library
@@ -300,7 +324,8 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
-  detection_source: packages/pockethost.io/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/package.json
+  detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-11-06 06:00:27.000000000 Z
 - name: "@types/marked"
@@ -313,7 +338,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17650/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-06 10:49:40.000000000 Z
@@ -327,8 +352,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: packages/pockethost.io/yarn.lock
-  detection_source: packages/proxy/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
+  detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: "@types/semver"
@@ -341,7 +366,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-12-26 09:26:51.000000000 Z
@@ -355,8 +380,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17575/default_661ab15cb9ea1663765f3e16ee70a1d2d50118d1.png
-  detection_source_url: yarn.lock
-  detection_source: packages/daemon/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
+  detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: ajv
@@ -369,8 +394,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
-  detection_source_url: yarn.lock
-  detection_source: packages/daemon/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
+  detection_source: packages/common/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
 - name: chokidar-cli
@@ -384,7 +409,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16834/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Brewhouse Digital
   last_updated_on: 2022-10-15 15:36:15.000000000 Z
@@ -398,7 +423,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
@@ -412,7 +437,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-12-28 00:29:28.000000000 Z
@@ -426,7 +451,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17537/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
@@ -440,7 +465,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16978/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-03 22:09:03.000000000 Z
@@ -454,7 +479,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17030/default_824835a71140f223a333a5e10225c10368f12857.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
@@ -468,7 +493,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16732/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
-  detection_source_url: packages/daemon/yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/daemon/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 03:15:57.000000000 Z
@@ -482,8 +507,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16430/default_d73092129e1cde5ea9f47f22e2d7c3db7bd6da8d.png
-  detection_source_url: yarn.lock
-  detection_source: packages/proxy/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
+  detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-13 02:01:22.000000000 Z
 - name: js-cookie
@@ -496,7 +521,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-26 20:04:31.000000000 Z
@@ -510,7 +535,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16491/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-11-06 06:00:27.000000000 Z
@@ -531,7 +556,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-06 10:49:40.000000000 Z
@@ -545,8 +570,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17208/default_183829c5079b84333a720d8590a328efc043ba0e.png
-  detection_source_url: packages/pockethost.io/yarn.lock
-  detection_source: packages/common/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
+  detection_source: attic/js-cloud-funcs/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: node-fetch
@@ -559,7 +584,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: packages/pockethost.io/yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-12-26 09:26:51.000000000 Z
@@ -573,7 +598,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16763/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-11-15 02:15:11.000000000 Z
@@ -587,7 +612,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
@@ -601,7 +626,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: packages/pockethost.io/yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Brewhouse Digital
   last_updated_on: 2022-10-15 15:36:15.000000000 Z
@@ -615,7 +640,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16285/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-03 22:09:03.000000000 Z
@@ -636,8 +661,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: yarn.lock
-  detection_source: packages/daemon/package.json
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
+  detection_source: packages/cli/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2022-10-28 12:12:27.000000000 Z
 - name: tslib
@@ -650,7 +675,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: packages/pockethost.io/yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/packages/pockethost.io/yarn.lock
   detection_source: packages/pockethost.io/package.json
   last_updated_by: Brewhouse Digital
   last_updated_on: 2022-10-15 15:36:15.000000000 Z
@@ -664,7 +689,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18608/default_a335cb090acf9ce9e4f4caed37544c3f870176b2.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/yarn.lock
   detection_source: packages/daemon/package.json
   last_updated_by: Ben Allfree
   last_updated_on: 2023-01-03 22:09:03.000000000 Z
@@ -677,6 +702,7 @@ tools:
   category: Libraries
   sub_category: Go Modules Packages
   image_url: https://img.stackshare.io/package/go-packages/image.png
-  detection_source: attic/pockethost/go.mod
+  detection_source_url: https://github.com/yuriportfolio/pockethost/blob/master/attic/fly.io/pocketbase-custom/go.mod
+  detection_source: attic/fly.io/pocketbase-custom/go.mod
   last_updated_by: Ben Allfree
   last_updated_on: 2022-09-19 18:14:52.000000000 Z
